@@ -6,7 +6,8 @@
     color:aliceblue
 }
 body {
-    background: linear-gradient(180deg, rgba(155, 38, 38, 0.76) 0%, rgba(155, 129, 38, 0.76) 51.04%, rgba(69, 155, 38, 0.76) 90.1%);
+    background: black;
+    /* linear-gradient(180deg, rgba(155, 38, 38, 0.76) 0%, rgba(155, 129, 38, 0.76) 51.04%, rgba(69, 155, 38, 0.76) 90.1%); */
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
